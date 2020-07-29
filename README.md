@@ -1,4 +1,4 @@
-https://travis-ci.org/Winnie0v0/hw-tdd-rspec.svg?branch=master
+[![Build Status](https://travis-ci.org/Winnie0v0/hw-tdd-rspec.svg?branch=master)](https://travis-ci.org/Winnie0v0/hw-tdd-rspec)
 
 # TDD with RSpec
 
